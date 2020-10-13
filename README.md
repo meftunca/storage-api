@@ -13,7 +13,7 @@ Projenin amacı açıklamada söylendiği gibi App-Container projesi için gerek
   - `100MB` ve üzeri dosyaların zaman kaybı kazandırdığı alandan daha değerli olacağı için böyle bir sınır konulacaktır
   - Sunucu yoğunluğu %5 ve daha az ise `100MB`'ten daha büyük dosyalar parça parça sıkıştırılacaktır.
 - Varsayılan video formatı `webm`dir ve diğer formatlar `webm` formatına dönüştürülecektir.  
-- Varsayılan resim formatı `web`dir ve diğer formatlar `webp` formatına dönüştürülecektir.
+- Varsayılan resim formatı `webp`dir ve diğer formatlar `webp` formatına dönüştürülecektir.
   - Resimler için genişliği 720 üzeri olanlar için otomatik thumbnail resim dosyası oluşturulacaktır.
   - Thumbnail oluşturma limiti 4k çözünürlükte 4 adet, 2.5k çözünürlükte 3, full HD çözünürlükte 2 ve HD çözünürlükte 1 tanedir
   
